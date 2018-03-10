@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=wDzuS7pnYJE
+- GWT demo UiBinding without compiling
+
+
+
+https://www.youtube.com/playlist?list=PLGJDCzBP5j3yheWxkEdJCDAhzYxpudejx
+- GWT Tutorials: Google Web Toolkit
